@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ali",
+        "age": 20,
+        "department": "Computer Science"
+    },
+    {
+        "name": "Ayşe",
+        "age": 22,
+        "department": "Mathematics"
+    },
+    {
+        "name": "Mehmet",
+        "age": 21,
+        "department": "Physics"
+    },
+    {
+        "name": "Fatma",
+        "age": 23,
+        "department": "Chemistry"
+    }
+]
